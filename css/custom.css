@@ -1,0 +1,24 @@
+/*
+.header input {
+    float: left;
+}
+*/
+
+
+.new-todo {
+    font-size: 18px;
+    width: 50%
+}
+
+label small {
+    color: #fff;
+    font-size: 15px;
+    border-color: #aaa;
+    border-radius: 10px;
+    padding: 5px;
+    background-color: #bbbbbb;
+}
+
+.main {
+    clear: left;
+}
